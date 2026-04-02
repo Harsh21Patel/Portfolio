@@ -189,7 +189,7 @@ description:
       icon: <Icons.github className="size-3" />,
     },
   ],
-  image: "/core.jpeg",
+  image: "/projects/odoo.png",
   video: "",
 },
     {
