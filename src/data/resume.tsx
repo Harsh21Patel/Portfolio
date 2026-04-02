@@ -189,7 +189,7 @@ description:
       icon: <Icons.github className="size-3" />,
     },
   ],
-  image: "/projects/core.jpeg",
+  image: "/core.jpeg",
   video: "",
 },
     {
